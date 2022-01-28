@@ -98,11 +98,11 @@ We then proceeded to reduce the number of posts from each subreddit to 5000 each
 
 ### 2.3 EDA on the dataset
 #### Top Words in TheOnion
-With English stop words removed:
+With English stop words removed:<br>
 <img src="./Images/TopWordsOnion.png" width="450" float="center"/><br>
 
 #### Top Words in nottheonion
-With English stop words removed:
+With English stop words removed:<br>
 <img src="./Images/notonionTopWords.png" width="450" float="center"/><br>
 
 Common words for both TheOnion and nottheonion are **'new', 'man', 'woman', 'trump'**, **year** and **'say'**.
